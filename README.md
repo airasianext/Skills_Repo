@@ -21,6 +21,7 @@ Here is a summary of the custom skills available in this repository:
 | **`gcp-cloud-run-migrator`** | Helps users inspect, plan, and migrate Cloud Run services and their dependencies (secrets, service accounts, enabled APIs, logging policies, container images) from a source GCP project to a target GCP project. | `gemini skills install https://github.com/<your-username>/Skills_Repo.git --path skills/gcp-cloud-run-migrator` |
 | **`readme-format`** | Create and format high-signal, standard-compliant README.md files. Use when a repository needs a new README.md, when refactoring an outdated or poorly structured README, or when preparing to commit code and release a project following team standards. | `gemini skills install https://github.com/<your-username>/Skills_Repo.git --path skills/readme-format` |
 | **`security-auditor`** | Defensive Security Auditor specializing in Static Application Security Testing (SAST), active browser-based Dynamic Application Security Testing (DAST) using Playwright, and LLM application security. | `gemini skills install https://github.com/<your-username>/Skills_Repo.git --path skills/security-auditor` |
+| **`workvivo-handbook-generator`** | Transforms technical docs, READMEs, and product guides into polished, Medium-style internal articles for Workvivo Pages. | `gemini skills install https://github.com/<your-username>/Skills_Repo.git --path skills/workvivo-handbook-generator` |
 
 ---
 
